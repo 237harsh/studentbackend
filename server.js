@@ -19,7 +19,7 @@ app.use(cors());
 // connection url
 
 const connection_url =
-  "mongodb+srv://Pdpatel267:admin@cluster0.wiq7i.mongodb.net/Cluster0?retryWrites=true&w=majority";
+"mongodb+srv://mauryaharshpriya:m09Z1IW69fimJMXS@cluster0.eiabszr.mongodb.net/?retryWrites=true&w=majority"
 
 mongoose.connect(connection_url, {
   useNewUrlParser: true,
